@@ -157,7 +157,7 @@ Now i create the s3 bucket to host the client side app.
 
 2. Write the config statment pipline in side config.yml
 
-``` json
+``` yml
 version: 2.1
 orbs:
   # orgs contain basc recipes and reproducible actions (install node, aws, etc.)
