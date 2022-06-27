@@ -15,6 +15,8 @@ Work on deploying a full-stack app using AWS cloud services provided on this che
 
 > Back-End app run at: http://udagram-env.eba-e89egzw3.us-east-1.elasticbeanstalk.com/
 
+## Project Archticture
+![alt text for screen readers](/doc/img/projectArchtiecture.jpeg "Create database details")
 
 ## Preparing source code infrastructure for deployment
 
