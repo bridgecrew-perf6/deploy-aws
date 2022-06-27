@@ -18,6 +18,9 @@ Work on deploying a full-stack app using AWS cloud services provided on this che
 ## Project Archticture
 ![alt text for screen readers](/doc/img/projectArchtiecture.jpeg "Create database details")
 
+## Overview of the pipeline
+![alt text for screen readers](/doc/img/pipeline.png "Create database details")
+
 ## Preparing source code infrastructure for deployment
 
 created .env file to configure all parameters required in the project
