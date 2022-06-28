@@ -61,7 +61,7 @@ jobs:
           name: Deploy Back-End App
           # TODO: Deploy app
           command: |
-            npm run api:build
+            npm run api:deploy
             
 workflows:
   udagram:
